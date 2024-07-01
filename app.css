@@ -8,7 +8,7 @@ h1 {
 
 }
 body {
-    background-color: #F69680;
+    background-color: #96cfe6;
     color: #2E1263;
     font-family: "Source Code Pro";
     font-weight: 200;
@@ -16,7 +16,7 @@ body {
 img {
     height: 300px;
     width: 310px;
-    border-radius: 50%;
+    border-radius: 30%;
 }
 
 #container {
@@ -30,7 +30,7 @@ img {
 button {
     margin: 30px auto 0;
     padding: 20px 25px;
-    background-color:#F69680;
+    background-color:#96cfe6;
     color: #2E1263;
     font-size: 14px;
     border: 1px solid #2E1263;
@@ -42,7 +42,7 @@ button {
 
 button:hover {
     background-color: #2E1263;
-    color: #F69680;
+    color: #96cfe6;
     transition: .3s;
     text-decoration: underline;
 }
